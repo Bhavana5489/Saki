@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quiet Space</string>
+    <string name="title_activity_main">Quiet Space</string>
+    <string name="package_name">com.quietspace.app</string>
+    <string name="custom_url_scheme">com.quietspace.app</string>
+</resources>
